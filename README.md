@@ -27,10 +27,10 @@ Base URL: https://jsonplaceholder.typicode.com
 **Description**
 Returns a list of all posts.
 
-## Exemple request
+## Example request
 https://jsonplaceholder.typicode.com/posts
 
-## Exemple response
+## Example response
 {
         "userId": 1,
         "id": 1,

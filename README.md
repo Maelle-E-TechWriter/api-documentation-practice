@@ -15,10 +15,10 @@ The Endpoint is the added part after the URL, that specifies the request.
 # API - Practice project 1 
 This document is a practice of API documentation using the JSONPlaceholder API. 
 
-## About the API
+## About the API 
 This API provides fake data for testing and learning purposes. It includes posts, users, and comments. 
 Base URL: https://jsonplaceholder.typicode.com
----
+
 ## Endpoint: Get all posts
 **Method**
 'Get'
@@ -26,10 +26,10 @@ Base URL: https://jsonplaceholder.typicode.com
 '/posts'
 **Description**
 Returns a list of all posts.
----
+
 ## Exemple request
 https://jsonplaceholder.typicode.com/posts
----
+
 ## Exemple response
 {
         "userId": 1,
